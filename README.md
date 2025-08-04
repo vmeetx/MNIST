@@ -5,4 +5,4 @@ Understanding goals:
 
 1) Dataloader making
 2) Manual backprop
-3) Basics of better applications of MLPS C:\Users\veerm\OneDrive\Desktop\Mnist> git status
+3) Basics of better applications of MLPS 
