@@ -1,2 +1,8 @@
 # MNIST
-Running a toy model and slowly adding things to it to raise it to above 99.5% accuracy
+Changing some of my core idea, making this into a deeper niche:
+Working towards near perfecting a BASIC fashion MNIST classifier using PyTorch.
+Understanding goals:
+
+1) Dataloader making
+2) Manual backprop
+3) Basics of better applications of MLPS C:\Users\veerm\OneDrive\Desktop\Mnist> git status
